@@ -4,7 +4,7 @@ Hi 👋 My name is Thanapat Duongkaew
 I'am Computer Engineering at Prince of Songkhla University
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [Thanapat0918618713@gmail.com](mailto:Thanapat0918618713@gmail.com)
+* ✉️  You can contact me at [thanapatbat@gmail.com](mailto:thanapatbat@gmail.com)
 * 🧠  I'm learning CyberSecurity
 
 ### Skills
